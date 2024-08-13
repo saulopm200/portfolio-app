@@ -1,11 +1,11 @@
-import Teste from './Teste'
+import Sidebar from './containers/Sidebar'
 import EstiloGlobal from './styles'
 
 function App() {
   return (
     <>
       <EstiloGlobal />
-      <Teste />
+      <Sidebar />
     </>
   )
 }
